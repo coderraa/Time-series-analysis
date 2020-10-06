@@ -1,1 +1,3 @@
-# Time-series-analysis
+# Time-Series-Analysis
+@author *Rahul Singh*
+
